@@ -1,2 +1,2 @@
 # My-WAN-Project
-By using Cisco Packet Tracer I made project which name is Wide Area Network (WAN) 
+By using Cisco Packet Tracer I made a project which name is Wide Area Network (WAN) 
